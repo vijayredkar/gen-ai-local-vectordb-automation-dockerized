@@ -1,0 +1,5 @@
+chromadb
+redis
+elasticsearch
+weaviate
+qdrant
